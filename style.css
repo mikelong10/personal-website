@@ -329,6 +329,12 @@ p {
   margin-top: 20px;
 }
 
+#skills h3 {
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+  margin-bottom: 2rem;
+}
+
 #skills .skills-header p {
   margin: 20px 10% 0;
 }
@@ -350,7 +356,7 @@ p {
   padding: 30px;
   border-radius: 10px;
   background-size: cover;
-  margin: 10px 5%;
+  margin: 0px 5%;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -391,7 +397,7 @@ p {
 #skills .skill-item h3 {
   color: #FFFEEB;
   font-size: 2rem;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   text-transform: uppercase;
   text-align: left;
 }
